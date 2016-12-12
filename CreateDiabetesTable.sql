@@ -1,4 +1,4 @@
-USE 35001fa16_dacostay;
+USE xxxxxxx;
 
 CREATE TABLE Diabetes (
 	ID INT UNSIGNED NOT NULL AUTO_INCREMENT,
