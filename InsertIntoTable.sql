@@ -1,4 +1,4 @@
-USE 35001fa16_dacostay;
+USE xxxxxxx;
 
 INSERT INTO TypeEntry (ItemID, ItemName)
 	SELECT DISTINCT Diabetes.ID, Diabetes.Name
