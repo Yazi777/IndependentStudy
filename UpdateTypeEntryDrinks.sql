@@ -1,4 +1,4 @@
-USE 35001fa16_dacostay;
+USE xxxxxxx;
 
 UPDATE TypeEntry SET Drink = 'YES'  WHERE ItemID = 15;
 UPDATE TypeEntry SET Drink = 'YES'  WHERE ItemID = 16;
